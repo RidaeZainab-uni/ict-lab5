@@ -1,2 +1,1 @@
-"it allows multiple developers to collabarate" 
-"git integrate seamless teamwork "
+"Git is a distributed version control system for work." 
